@@ -4,4 +4,4 @@
 
 ## Screenshot
 
-![Recording of the application](screenshots/2022-10-30 22.47.40.gif)
+![Recording of the application](https://github.com/dv297/unity-memory/raw/main/screenshots/2022-10-30%2022.47.40.gif)
